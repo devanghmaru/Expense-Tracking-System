@@ -95,16 +95,16 @@ Contributions are welcome! If you find a bug or have a suggestion, please open a
 
 ### Add/Update Tab
 
-![Screenshot of the Add/Update UI](image/add-update.png)
+![Screenshot of the Add/Update UI](Expense-tracking-system/image/add-update.png)
 
 ### Analytics by Category Tab
 
-![Screenshot of the analytics_by_category.png](image/analytics_by_category.png)
+![Screenshot of the analytics_by_category.png](Expense-tracking-system/image/analytics_by_category.png)
 
-![Screenshot of the analytics_by_category2.png](image/analytics_by_category2.png)
+![Screenshot of the analytics_by_category2.png](Expense-tracking-system/image/analytics_by_category2.png)
 
 ### Analytics by Month Tab
-![Screenshot of the analytics_by_month.png](image/analytics_by_month.png)
+![Screenshot of the analytics_by_month.png](Expense-tracking-system/image/analytics_by_month.png)
 ---
 
 ### `requirements.txt`
